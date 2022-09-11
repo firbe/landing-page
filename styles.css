@@ -224,5 +224,9 @@ button, .section4 div {
 }
 
 footer {
+    padding: 25px;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
